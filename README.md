@@ -8,7 +8,7 @@ Password recovery via SPA on atmega328p, using a Rigol DS1102Z-E.
 
 The hardware setup and the code runing on the MCU (src/spa.ino) are taken from "The Hardware Hacking Handbook, Breaking Embedded Security with Hardware Attacks" by Colin O'Flynn and Jasper van Woudenberg.
 
-![setup](.imgs/setup.jpg)
+![setup](./imgs/setup.jpg)
 
 One probe is connected to the shunt resistor, the other one to pin 4, used as trigger.
 
